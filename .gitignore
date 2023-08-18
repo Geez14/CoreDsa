@@ -1,2 +1,6 @@
 *.py
 *.s
+*.java
+*.exe
+/.vscode
+/.Basic_c_codes
